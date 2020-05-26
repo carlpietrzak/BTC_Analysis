@@ -1,7 +1,6 @@
 # **Modeling Cryptocurrency Usage in Consumer Transactions**
 ***
 
-## **Problem Statement**
 Cryptocurrencies are, collectively, the fastest growing asset class. In comparison with other assets such as government-issued currencies, gold, real estate, equities, and debt obligations, the aggregate market value of cryptocurrencies remains very small. However, the rapid growth in the market value of this new asset class compels government agencies to develop appropriate regulations to protect consumers, tax, incentivize or disincentivize usage, etc.
 
 A key difficulty in developing these regulations is determining whether cryptocurrencies are primarily:
