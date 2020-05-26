@@ -1,4 +1,3 @@
-# **Final Project:**
 # **Modeling Cryptocurrency Usage in Consumer Transactions**
 ***
 
